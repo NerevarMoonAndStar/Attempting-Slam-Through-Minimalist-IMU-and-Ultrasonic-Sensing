@@ -1,0 +1,2 @@
+# Attempting-Slam-Through-Minimalist-IMU-and-Ultrasonic-Sensing
+An experimental autonomous mobile robot capable of performing environment mapping and particle-filter-based localisation using highly constrained sensing hardware. A Python-based navigation agent communicates with an ESP32 controller over Wi-Fi, performing pose estimation, point-map construction, landmark extraction and autonomous navigation.

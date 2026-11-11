@@ -6,11 +6,6 @@ A Python-based navigation agent communicates with an ESP32 controller over Wi-Fi
 
 The system uses only an MPU-6050 IMU and a servo-mounted HC-SR04 ultrasonic sensor for environmental sensing, generating pseudo-2D scans without relying on cameras, LiDAR or GPS.
 
-## Demonstration
-
-The following video demonstrates the robot's autonomous operation, including environmental exploration and mapping.
-
-![Autonomous robot demonstration](slam_run.gif)
 
 ## Hardware
 
